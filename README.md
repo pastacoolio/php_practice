@@ -1,2 +1,2 @@
 # php_practice
-phppractice
+first steps with php and mysql
